@@ -1,0 +1,15 @@
+new game
+init player x 4
+start game
+choose dealer randomly
+reset trump -1
+set next player
+set next bidder
+shuffle cards
+deal card 3 times to next player _ increase next player _ x4
+next bidder to bid _ increase next bidder _ until non pass bid
+deal card 3 times to np _ inc np _ x 8
+next player announce _ next player play card _ increase next player x4
+np show _ np pc _ inc np x 32
+
+
